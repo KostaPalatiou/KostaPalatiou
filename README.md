@@ -1,4 +1,4 @@
-# Web Challenges
+# Repo von Kosta
 
 In this repository you will share your challenges.
 
